@@ -1,13 +1,13 @@
 <h1>Demo dao/JDBC</h1>
 
 
-<p> Configuração de um banco de dados para testes e estudos de SQL, utilizando dependências JDBC com Java.
+<p> Setting up a database for SQL testing and studies, using JDBC dependencies with Java.
 <br>
 
-Realização de ações como inserir, deletar e atualizar dados.
+Performing actions such as inserting, deleting, and updating data.
 <br>
 
-Foi um exercício real  seguindo boas práticas para a manipulação e desenvolvimento de dados.
+It was a real exercise following best practices for data manipulation and development.
 <br>
 # technologies used
 - Java
