@@ -13,7 +13,7 @@ It was a real exercise following best practices for data manipulation and develo
 - Java
 - JDBC
 - SQL 
-- H2 database
+
 
 
 # Author
